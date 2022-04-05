@@ -23,5 +23,5 @@ In this repository you will find necessary scripts for glycan image training inc
 * Input file:	[glycan_classification.csv](https://github.com/GW-HIVE/Glycan-recognition/blob/main/glycan_classification.csv) and [.png] (folder contains all glycan images in .png)
 
 ## 6.[ClassOne.m](https://github.com/GW-HIVE/Glycan-recognition/blob/main/ClassOne.m)
-* Function: This script will test the trained neural net from DarkNet19.m.
+* Function: This script will test the trained neural nets from DarkNet19.m. This version integrates up to four neural nets.
 * Input file:	[file_name.mat] from DarkNet19.m and a test image in [.png].
