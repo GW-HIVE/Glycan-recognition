@@ -3,7 +3,7 @@ In this repository you will find necessary scripts for glycan image training inc
 
 ## 1.[NewData.m](https://github.com/GW-HIVE/Glycan-recognition/blob/main/NewData.m)
 * Function: This script will create the distortion images. The script is set to make 15 sets of variations but it can be changed based on needs.
-* Input file:	[.png files]
+* Input file:	[.png files] Files for this study were downloaded from https://data.glygen.org/GLY_000339
 
 ## 2.[DisImg.m](https://github.com/GW-HIVE/Glycan-recognition/blob/main/DisImg.m)
 * Function: This script serves as a supporting file for NewData.m. It specifies the kind of variations will be created.
